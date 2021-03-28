@@ -55,7 +55,7 @@
           "description": "The max duration of the video", 
           "required": true,
           "value": "6",
-      }, 
+      } 
       
    }
 }
