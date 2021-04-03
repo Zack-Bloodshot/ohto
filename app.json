@@ -54,8 +54,8 @@
       "Max_Dur": {
           "description": "The max duration of the video", 
           "required": true,
-          "value": "6",
+          "value": "6"
       }, 
       
-   
+  } 
 }
