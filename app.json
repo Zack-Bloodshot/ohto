@@ -40,7 +40,7 @@
          "description": "Your user ID as an integer.",
          "required": true,
          "value": ""
-      }
+      }, 
       "Group": {
          "description": "The id where the bot will play",
          "required": true,
